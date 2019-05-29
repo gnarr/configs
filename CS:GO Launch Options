@@ -1,0 +1,1 @@
+-freq 144 -novid -high -tickrate 128 +fps_max 0 +cl_updaterate 128 +cl_cmdrate 128 +exec autoexec
